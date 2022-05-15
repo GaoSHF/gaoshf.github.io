@@ -68,7 +68,7 @@ params:
       enable: true
       # Share post on different social media
       shareButtons:
-        facebook: true
+        facebook: false
         twitter: true
         linkedin: true
         reddit: true
@@ -169,10 +169,10 @@ params:
 
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
-    newsletter:
-      enable: true
-      provider: mailchimp
-      mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+    #newsletter:
+      #enable: true
+      #provider: mailchimp
+      #mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
