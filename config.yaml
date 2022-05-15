@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://GaoSHF.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "Gao's Blog"
 theme: "toha"
 
 ignoreErrors: "error-remote-getjson"
@@ -11,9 +11,7 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: বাংলা
-    weight: 3
+  
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -52,7 +50,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/GaoSHF/GaoSHF.github.io
   # Default branch of your Git repo
   gitBranch: source
 
@@ -122,8 +120,8 @@ params:
     analytics:
       enabled: true
       # Google Analytics
-      google:
-        id: G-H4LBG7NDFZ
+      #google:
+      #  id: G-H4LBG7NDFZ
       # # CounterDev
       # counterDev:
       #   id: <your counterdev id>
