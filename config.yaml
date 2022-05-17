@@ -10,8 +10,9 @@ ignoreErrors: "error-remote-getjson"
 languages:
   en:
     languageName: English
-    weight: 1
-  
+    weight: 2
+
+
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -37,6 +38,12 @@ outputs:
 # Enable global emoji support
 enableEmoji: true
 
+enableGitInfo : true
+frontmatter:
+  date: [":filename","date","publishDate","lastmod"]
+  lastmod: [":fileModTime",":git","lastmod","date","publishDate"]
+  publishDate: ["publishDate","date"]
+  expiryDate: ["expiryDate"]
 # Site parameters
 params:
   # Background image of the landing page
@@ -68,12 +75,12 @@ params:
       enable: true
       # Share post on different social media
       shareButtons:
-        facebook: false
-        twitter: true
-        linkedin: true
-        reddit: true
-        whatsapp: true
-        email: true
+        #facebook: false
+        #twitter: true
+        #linkedin: true
+        #reddit: true
+        #whatsapp: true
+        #email: true
         # tumblr: true
         # pocket: true
         # diaspora: true
@@ -177,3 +184,7 @@ params:
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
       enable: true
+
+
+
+

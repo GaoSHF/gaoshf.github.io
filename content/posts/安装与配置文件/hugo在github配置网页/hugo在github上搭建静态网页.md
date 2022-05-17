@@ -1,9 +1,9 @@
 ---
 title: "hugo在github配置静态网页"
-date: 202-06-18T08:06:25+06:00
+date: 2021-12-18
 description: 这是一个测试文档
 menu:
-  sidebar:
+   sidebar:
     name: hugo在github配置静态网页
     identifier: hugo在github配置网页
     parent: 安装与配置文件
@@ -13,7 +13,6 @@ author:
   image: /images/author/Gao.png
 math: true
 categories: ["Basic"]
-
 ---
 
 
@@ -25,6 +24,7 @@ hugo在github上搭建静态网页
    在`https://github.com/gohugoio/hugo/releases`下载相应的安装包；
 
 2. Ubuntu可以deb包直接进行安装
+
 3. 验证安装是否成功 
 
    ```shell
@@ -93,7 +93,10 @@ hugo在github上搭建静态网页
     
     ```
 
-    
+
+
+
+
 
 参考：https://blog.csdn.net/weixin_44471490/article/details/107544139
 
