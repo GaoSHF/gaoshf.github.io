@@ -1,12 +1,13 @@
 ---
-title: "Shortcodes Samples"
-date: 2020-06-08T08:06:25+06:00
+title: "hero 测试"
+date: 2020-06-08T08:06:25+08:00
 description: Shortcodes sample
 menu:
   sidebar:
-    name: Shortcodes Sample
-    identifier: shortcodes
-    weight: 40
+    name: Hero 测试
+    identifier: CAPL笔记
+    parent: CANoe
+    weight: 60
 hero: hero.svg
 mermaid: true
 ---

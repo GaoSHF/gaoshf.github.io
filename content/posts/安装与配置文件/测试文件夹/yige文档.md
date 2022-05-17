@@ -7,9 +7,8 @@ menu:
     identifier: 测试文件夹
     parent: 安装与配置文件
     weight: 15
-author:
-  name: Gao
-  image: /images/author/Gao.png
+hero: /images/hero.svg
+mermaid: true
 ---
 
 

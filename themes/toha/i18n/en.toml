@@ -1,36 +1,36 @@
 # More documentation here: https://github.com/nicksnyder/go-i18n
 [home]
-other = "Home"
+other = "主页"
 
 [posts]
-other = "Posts"
+other = "博客"
 
 [toc_heading]
-other = "Table of Contents"
+other = "目录"
 
 [tags]
-other = "Tags"
+other = "标签"
 
 [categories]
-other = "Categories"
+other = "类别"
 
 [at]
 other = "at"
 
 [resume]
-other = "My resume"
+other = "我的简历"
 
 [navigation]
-other = "Navigation"
+other = "导航"
 
 [contact_me]
-other = "Contact me:"
+other = "联系方式:"
 
 [email]
-other = "Email"
+other = "邮箱"
 
 [phone]
-other = "Phone"
+other = "电话"
 
 [newsletter_text]
 other = "Stay up to date with email notification"
@@ -42,22 +42,22 @@ other = "Enter email"
 other = "By entering your email address, you agree to receive the newsletter of this website."
 
 [submit]
-other = "Submit"
+other = "提交"
 
 [hugoAttributionText]
 other = "Powered by"
 
 [prev]
-other = "Prev"
+other = "上一篇"
 
 [next]
-other = "Next"
+other = "下一篇"
 
 [share_on]
-other = "Share on"
+other = "分享"
 
 [improve_this_page]
-other = "Improve this page"
+other = "改善该页面"
 
 [out_of]
 other = "out of"
@@ -99,28 +99,28 @@ other = "Please enable JavaScript to view the"
 other = "comments powered by"
 
 [read]
-other = "Read"
+other = "阅读"
 
 [project_star]
 other = "Star"
 
 [project_details]
-other = "Details"
+other = "详情"
 
 [err_404]
 other = "The page you are looking for is not there yet."
 
 [more]
-other = "More"
+other = "更多"
 
 [view_certificate]
-other = "View Certificate"
+other = "查看证书"
 
 [notes]
-other = "Notes"
+other = "笔记"
 
 [disclaimer_text]
-other = "Liability Notice"
+other = "免责声明"
 
 [search]
-other = "Search"
+other = "搜索"
