@@ -1,8 +1,8 @@
 # some information about you
-name: "Gao SHF"
-nickname: "Gao"
+#name: "Gao SHF"
+nickname: " "
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "欢迎来到我的博客！"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -13,5 +13,5 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I love to work with some fun projects
+  - 好好学习，天天向上！
+  - good good study, day day up !
