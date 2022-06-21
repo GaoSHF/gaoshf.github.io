@@ -1,5 +1,5 @@
 # some information about you
-#name: "Gao SHF"
+
 nickname: " "
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "欢迎来到我的博客！"
@@ -8,7 +8,7 @@ image: "images/author/john.png"
 contactInfo:
   email: "gaoshf@foxmail.com"
   phone: "+0123456789"
-  github: GaoSHF
+  #github: Gao
   
 
 # some summary about what you do

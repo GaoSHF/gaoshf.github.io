@@ -8,7 +8,7 @@ menu:
     identifier: 
     weight:
 author:
-  name: GaoSHF
+  name: Gao
   image: /images/author/Gao.png
 hero: 
 mermaid: true
